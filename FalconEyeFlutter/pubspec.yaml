@@ -1,0 +1,30 @@
+name: falconeye_rescue
+description: Falcon Eye rescue tablet interface rebuilt in Flutter.
+publish_to: "none"
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.4.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.8
+  shared_preferences: ^2.3.2
+  http: ^1.2.0
+  webview_flutter: ^4.8.0
+  flutter_map: ^8.1.1
+  latlong2: ^0.9.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/falcon_logo.png
+    - assets/live_mission_bg.png
+    - assets/map_view_bg.png

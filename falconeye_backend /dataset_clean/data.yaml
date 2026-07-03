@@ -1,0 +1,11 @@
+train: images/train
+val: images/val
+test: images/test
+
+names:
+  0: abaya
+  1: car
+  2: car_tracks
+  3: footprint
+  4: person
+  5: shemagh
