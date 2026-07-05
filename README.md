@@ -67,21 +67,44 @@ falcon-eye-system/
 
 ## Application Screens
 
-| Screen | Description |
-|---------|-------------|
-| `login-screen.png` | User login screen |
-| `home-dashboard.png` | Main dashboard |
-| `system-overview.png` | System overview |
-| `mission-history.png` | Mission history |
-| `mission-briefing.png` | Mission setup and briefing |
-| `target-profile.png` | Target profile information |
-| `target-profile2.png` | Additional target profile details |
-| `live-video-feed.png` | Live mission interface |
-| `live-feed-suggestion.png` | AI movement suggestion |
-| `target-confirmation.png` | Target confirmation dialog |
-| `mission-completed.png` | Mission completed summary |
-| `map-view.png` | Interactive map |
-| `search-grid-view.png` | Search area divided into grids |
+### Login Screen
+![](screenshots/login-screen.png)
+
+### Home Dashboard
+![](screenshots/home-dashboard.png)
+
+### System Overview
+![](screenshots/system-overview.png)
+
+### Mission History
+![](screenshots/mission-history.png)
+
+### Mission Briefing
+![](screenshots/mission-briefing.png)
+
+### Target Profile
+![](screenshots/target-profile.png)
+
+### Additional Target Profile
+![](screenshots/target-profile2.png)
+
+### Live Video Feed
+![](screenshots/live-video-feed.png)
+
+### AI Movement Suggestion
+![](screenshots/live-feed-suggestion.png)
+
+### Target Confirmation
+![](screenshots/target-confirmation.png)
+
+### Mission Completed
+![](screenshots/mission-completed.png)
+
+### Map View
+![](screenshots/map-view.png)
+
+### Search Grid View
+![](screenshots/search-grid-view.png)
 
 ---
 
