@@ -73,7 +73,7 @@ falcon-eye-system/
 ### Home Dashboard
 ![](screenshots/home-dashboard.png)
 
-### System Overview
+### System Diagnostics
 ![](screenshots/system-overview.png)
 
 ### Mission History
@@ -92,7 +92,7 @@ falcon-eye-system/
 ![](screenshots/live-video-feed.png)
 
 ### AI Movement Suggestion
-![](screenshots/live-feed-suggestion.png)
+![](screenshots/suggested-direction.png)
 
 ### Target Confirmation
 ![](screenshots/target-confirmation.png)
